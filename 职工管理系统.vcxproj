@@ -131,6 +131,7 @@
     <ClCompile Include="employee.cpp" />
     <ClCompile Include="manager.cpp" />
     <ClCompile Include="workManager.cpp" />
+    <ClCompile Include="源.cpp" />
     <ClCompile Include="职工管理系统.cpp" />
   </ItemGroup>
   <ItemGroup>
